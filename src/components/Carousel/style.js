@@ -20,6 +20,7 @@ export const Title = styled.h3`
 
 export const ExtraLink = styled.a`
   margin-left: 16px;
+  letter-spacing: 1px;
   text-decoration: none;
   transition: opacity .3s;
   &:hover,

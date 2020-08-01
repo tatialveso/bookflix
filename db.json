@@ -1,0 +1,27 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "title": "Front-End",
+            "description": "Categoria bleh",
+            "color": "#6bd1ff"
+        },
+        {
+            "id": 2,
+            "title": "Front-End",
+            "description": "Categoria bleh",
+            "color": "#6bd1ff"
+        },
+        {
+            "id": 3,
+            "title": "Front-End",
+            "description": "Categoria bleh",
+            "color": "#6bd1ff"
+        }
+    ],
+    "videos": [
+        {
+
+        }
+    ]
+}

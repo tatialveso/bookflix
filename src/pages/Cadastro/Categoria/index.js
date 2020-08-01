@@ -16,7 +16,7 @@ function CadastroCategoria() {
   const [categorias, setCategorias] = useState([]);
 
   useEffect(() => {
-    const URL = 'http://localhost:8000/categorias';
+    const URL = 'http://localhost:8080/categorias';
     fetch(URL).then(async (serverAnswer) => {
       const answer = await serverAnswer.json();
       setCategorias([

@@ -71,7 +71,7 @@ function CadastroCategoria() {
         />
 
         <Button>
-          CADASTRAR
+          CADASTRAR CATEGORIA
         </Button>
       </form>
 

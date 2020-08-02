@@ -159,82 +159,148 @@
       "url": "https://www.youtube.com/watch?v=gVqW3NmjViI"
     },
     {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
-      "id": 7,
-      "categoriaId": 6,
-      "title": "#poetry",
-      "url": "https://www.youtube.com/watch?v=bu215ixgjtY"
-    },
-    {
       "title": "Thigh Gaps And Other Traps | Poem by Ariel Bissett",
       "url": "https://www.youtube.com/watch?v=7J7RadN0u8U",
       "categoriaId": 3,
       "id": 21
+    },
+    {
+      "title": "An Ode to Broken Spines",
+      "url": "https://www.youtube.com/watch?v=eaWt6KEJuZ8",
+      "categoriaId": 3,
+      "id": 22
+    },
+    {
+      "id": 23,
+      "categoriaId": 6,
+      "title": "(In)Visibilidade brasileira",
+      "url": "https://www.youtube.com/watch?v=HXSIINseBf0"
+    },
+    {
+      "id": 24,
+      "categoriaId": 6,
+      "title": "Saberes e resistência compartilhados",
+      "url": "https://www.youtube.com/watch?v=Y8-iiR-O_GI"
+    },
+    {
+      "id": 25,
+      "categoriaId": 6,
+      "title": "Terrores e distopias",
+      "url": "https://www.youtube.com/watch?v=xEXSr34CwNc"
+    },
+    {
+      "id": 26,
+      "categoriaId": 6,
+      "title": "Ninguém é uma coisa só",
+      "url": "https://www.youtube.com/watch?v=LbquAvN8H8I"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "title": "Jovens que fazem poesia; jovens que leem poesia",
+      "url": "https://www.youtube.com/watch?v=bsR_kzjiCaI"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "title": "Literatura trans e poesia",
+      "url": "https://www.youtube.com/watch?v=hMYBmAwOJAY"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "title": "Explorando outros gêneros literários",
+      "url": "https://www.youtube.com/watch?v=SSAiLKCVO7E"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "title": "Procura-se uma agente",
+      "url": "https://www.youtube.com/watch?v=ELskwWMXVCk"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "title": "Literatura LGBTQIA+ e o mercado editorial",
+      "url": "https://www.youtube.com/watch?v=mcqrQaJ9f_8&t=1s"
+    },
+    {
+      "id": 32,
+      "categoriaId": 6,
+      "title": "Bate-papo com Casey McQuiston",
+      "url": "https://www.youtube.com/watch?v=xkLjjhtltkU"
+    },
+    {
+      "id": 33,
+      "categoriaId": 6,
+      "title": "Bate-papo com Ibi Zoboi",
+      "url": "https://www.youtube.com/watch?v=NLQ5pxIduZE"
+    },
+    {
+      "id": 34,
+      "categoriaId": 6,
+      "title": "Bate-papo com Kiersten White",
+      "url": "https://www.youtube.com/watch?v=NwXVPzZ81ho"
+    },
+    {
+      "id": 35,
+      "categoriaId": 4,
+      "title": "Daqui pra baixo, de Jason Reynolds | Pam Gonçalves",
+      "url": "https://www.youtube.com/watch?v=nRE1zun4ziU"
+    },
+    {
+      "id": 36,
+      "categoriaId": 4,
+      "title": "A Little Life | paperbackdreams",
+      "url": "https://www.youtube.com/watch?v=xLa7OnWxGkc"
+    },
+    {
+      "id": 37,
+      "categoriaId": 4,
+      "title": "A Little Life | Pam Gonçalves",
+      "url": "https://www.youtube.com/watch?v=Spyv61i7aoA"
+    },
+    {
+      "id": 38,
+      "categoriaId": 4,
+      "title": "Turtles All the Way Down, de John Green | Ariel Bissett",
+      "url": "https://www.youtube.com/watch?v=fLLe5sODKtg"
+    },
+    {
+      "id": 39,
+      "categoriaId": 4,
+      "title": "A geografia de nós dois, de Jennifer E. Smith | Pam Gonçalves",
+      "url": "https://www.youtube.com/watch?v=hz8sFcxJLtM"
+    },
+    {
+      "id": 40,
+      "categoriaId": 4,
+      "title": "Conectadas, de Clara Alves | Cadê LGBT",
+      "url": "https://www.youtube.com/watch?v=WGYDq3dZCh0"
+    },
+    {
+      "id": 41,
+      "categoriaId": 4,
+      "title": "Pessoas Normais, de Sally Rooney | Pam Gonçalves",
+      "url": "https://www.youtube.com/watch?v=K3e1VVi4cwA"
+    },
+    {
+      "id": 42,
+      "categoriaId": 4,
+      "title": "Querido Ex, de Juan Jullian | Cadê LGBT",
+      "url": "https://www.youtube.com/watch?v=KNTRVovL0F8"
+    },
+    {
+      "id": 43,
+      "categoriaId": 5,
+      "titulo": "Riot Baby | The Artisan Geek",
+      "url": "https://www.youtube.com/watch?v=29ipQ4MNokw"
+    },
+    {
+      "id": 44,
+      "categoriaId": 5,
+      "titulo": "Flores para Algerdon, de Daniel Keyes | Pam Gonçalves",
+      "url": "https://www.youtube.com/watch?v=k31O8QtbKPk"
     }
   ]
 }

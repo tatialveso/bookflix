@@ -7,6 +7,11 @@ import Button from '../../../components/Button';
 import videoRepository from '../../../repositories/video';
 import categoriesRepository from '../../../repositories/categories';
 
+const newCategory = {
+  marginTop: '20px',
+  marginBottom: '20px',
+};
+
 function CadastroVideo() {
   const history = useHistory();
   const [categorias, setCategorias] = useState([]);
@@ -71,9 +76,9 @@ function CadastroVideo() {
         </Button>
       </form>
 
-      <Link to="/cadastro/categoria">
-        Cadastrar Categoria
-      </Link>
+      <Button as={Link} className="ButtonLink" to="/cadastro/categoria" style={newCategory}>
+        CADASTRAR NOVA CATEGORIA
+      </Button>
     </PageDefault>
   );
 }

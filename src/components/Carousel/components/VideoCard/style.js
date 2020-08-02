@@ -1,3 +1,4 @@
+/* eslint-disable import/prefer-default-export */
 import styled from 'styled-components';
 
 export const VideoCardContainer = styled.a`
@@ -19,8 +20,7 @@ export const VideoCardContainer = styled.a`
 
   transition: opacity .3s;
   &:hover {
-    transform: scale(1.25, 1.25);
-    transition: 0.3s ease;
+    opacity: 0.4;
   }
   
   &:not(:first-child) {

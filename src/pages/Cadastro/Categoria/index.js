@@ -35,8 +35,8 @@ function CadastroCategoria() {
         {values.title}
       </h1>
 
-      <form onSubmit={function handleSubmit(info) {
-        info.preventDefault();
+      <form onSubmit={function handleSubmit(event) {
+        event.preventDefault();
         setCategorias([
           ...categorias,
           values,

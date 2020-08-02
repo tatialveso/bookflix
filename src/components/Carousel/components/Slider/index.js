@@ -18,10 +18,6 @@ const Container = styled.ul`
       font-size: 30px;
     }
   }
-
-  .slick-list:hover {
-    overflow: visible;
-  }
   
   .slick-prev {
     left: 0;
@@ -41,7 +37,7 @@ export const SliderItem = styled.li`
   }
 `;
 
-
+// eslint-disable-next-line react/prop-types
 const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
@@ -59,4 +55,4 @@ const Slider = ({ children }) => (
   </Container>
 );
 
-export default Slider; 
+export default Slider;

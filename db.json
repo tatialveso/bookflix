@@ -301,6 +301,30 @@
       "categoriaId": 5,
       "titulo": "Flores para Algerdon, de Daniel Keyes | Pam Gonçalves",
       "url": "https://www.youtube.com/watch?v=k31O8QtbKPk"
+    },
+    {
+      "title": "Se você gostou desse livro gringo, experimenta esse NACIONAL!",
+      "url": "https://www.youtube.com/watch?v=MJ8ULqmI_wE",
+      "categoriaId": 2,
+      "id": 45
+    },
+    {
+      "title": "Meus 20 autores negros favoritos",
+      "url": "https://www.youtube.com/watch?v=gj7AYvnxc0c",
+      "categoriaId": 2,
+      "id": 46
+    },
+    {
+      "title": "10 libros para aprender español",
+      "url": "https://www.youtube.com/watch?v=kexYAo6PckY",
+      "categoriaId": 2,
+      "id": 47
+    },
+    {
+      "title": "The Ballad of Songbirds and Snakes Book REVIEW & READING VLOG",
+      "url": "https://www.youtube.com/watch?v=HVmVhuiCsxo",
+      "categoriaId": 5,
+      "id": 48
     }
   ]
 }

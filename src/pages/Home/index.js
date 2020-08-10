@@ -1,9 +1,28 @@
 import React, { useEffect, useState } from 'react';
+import styled from 'styled-components';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import PageDefault from '../../components/PageDefault';
-import { Loader } from '../Cadastro/Categoria/style';
 import categoriesRepository from '../../repositories/categories';
+
+const Loader = styled.div`
+  @keyframes spinner {
+    to {transform: rotate(360deg);}
+  } 
+  &:before {
+    content: '';
+    box-sizing: border-box;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid var(--primary);
+    border-top-color: #000;
+    animation: spinner .6s linear infinite;
+  }
+`;
 
 function Home() {
   const [initialData, setInitialData] = useState([]);
